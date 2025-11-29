@@ -16,7 +16,7 @@ const faqs = [
 ];
 export default function App() {
   return (
-    <h1>Questions </h1>
+   
     <div>
       <Display data={faqs} />
     </div>
